@@ -14,7 +14,7 @@ Hi there 👋, I'm Nitish Sharma<br><br>I'm a passionate developer who enjoys bu
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitish-0601&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitish-0601&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -24,10 +24,13 @@ Hi there 👋, I'm Nitish Sharma<br><br>I'm a passionate developer who enjoys bu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-0601&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitish-0601&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nitish-0601&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ## 📈 Contribution Graph
