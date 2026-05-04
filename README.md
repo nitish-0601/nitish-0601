@@ -39,9 +39,9 @@ Hi there 👋, I'm Nitish Sharma<br><br>I'm a passionate developer who enjoys bu
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/nitish-0601/nitish-0601/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nitish-0601/nitish-0601/raw/output/github-contribution-grid-snake.svg)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitish-0601&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://github.com/nitish-0601/nitish-0601/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
  
 
